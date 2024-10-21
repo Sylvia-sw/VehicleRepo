@@ -2,6 +2,7 @@ public class Driver {
     Vehicle car;
     Vehicle bus;
     Vehicle eBike;
+    Vehicle tester;
     Scanner input = new Scanner(System.in);
 
     public static void main (String[]args) {
